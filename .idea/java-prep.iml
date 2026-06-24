@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/04-Reverse-String-Palindrome/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05-Sorting-Algorithms/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06-Inventory-System/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-ATM-Simulation/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
