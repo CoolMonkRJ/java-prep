@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/07-ATM-Simulation/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08-File-Reader-Word-Counter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09-Student-Grade-Calculator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-Trade-Logger/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
